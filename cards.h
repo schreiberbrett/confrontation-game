@@ -1,0 +1,11 @@
+enum GoodPiece {
+	FRODO,
+	PIPPIN,
+	GANDALF,
+	SAM,
+	LEGOLAS,
+	ARAGORN,
+	GIMLI,
+	MERRY,
+	BOROMIR
+};
